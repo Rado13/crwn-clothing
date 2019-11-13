@@ -55,6 +55,9 @@ render() {
             ))
         }
         </div>
+       // this.state.sections.map(({ title, imageUrl, id, size, linkUrl }) => (
+        //    <MenuItem key={id} title={title} imageUrl={imageUrl} size={size} linkUrl={linkUrl} />
+
     );
 }
 }
